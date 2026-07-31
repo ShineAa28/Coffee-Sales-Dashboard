@@ -255,6 +255,6 @@ A short presentation summarizing the project objective, workflow, dashboard, and
 
 *Aspiring Data Analyst*
 
-**Email:** [svshivani4444@gmail.com](mailto:svshivani4444@gmail.com)
+Email: [svshivani4444@gmail.com](mailto:svshivani4444@gmail.com)
 
-**LinkedIn:** [Shivani Verma](https://www.linkedin.com/in/shivani-verma-23076629a/)
+[LinkedIn](https://www.linkedin.com/in/shivani-verma-23076629a/)

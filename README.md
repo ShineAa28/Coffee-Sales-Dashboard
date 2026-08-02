@@ -258,3 +258,5 @@ A short presentation summarizing the project objective, workflow, dashboard, and
 Email: [svshivani4444@gmail.com](mailto:svshivani4444@gmail.com)
 
 [LinkedIn](https://www.linkedin.com/in/shivani-verma-23076629a/)
+
+[Portfolio](https://shivani-verma.lovable.app)
